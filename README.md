@@ -1,7 +1,7 @@
 # MRS
 The Medical Records System Open Source Software
 หนูอยากกลับบ้านนนนน
-เบื่อๆๆๆๆๆ
+เบื่อๆๆๆๆๆ 8888888
 
 
 ทีมนักพัฒนา
