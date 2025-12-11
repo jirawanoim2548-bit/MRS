@@ -1,6 +1,7 @@
 # MRS
 The Medical Records System Open Source Software
 หนูอยากกลับบ้านนนนน
+เบื่อๆๆๆๆๆ
 
 
 ทีมนักพัฒนา
@@ -10,3 +11,5 @@ The Medical Records System Open Source Software
 2.ทูล ใจทอง
 
 3.ตะวัน
+
+4.วาเลน
